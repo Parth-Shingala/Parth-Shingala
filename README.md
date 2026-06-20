@@ -5,7 +5,7 @@
 ### Java Developer | Fresher
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shingala-parth/)
-
+[![Resume](https://img.shields.io/badge/Resume-View%20PDF-D32F2F?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./resume.pdf)
 </div>
 
 ---
@@ -68,6 +68,7 @@
 
 <div align="center">
 
-📫 Let's connect — [LinkedIn](https://www.linkedin.com/in/shingala-parth/)
+📫 Let's connect — [LinkedIn](https://www.linkedin.com/in/shingala-parth/) · [Resume](./resume.pdf)
+ 
 
 </div>
